@@ -17,3 +17,4 @@ def insert(self, data):
     else:
         self._insert_recursive(self.root, data)
 
+
